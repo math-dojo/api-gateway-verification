@@ -1,2 +1,2 @@
 # api-gateway-verification
-Shared library to verify
+library for api gateway verification
